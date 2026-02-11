@@ -1,7 +1,5 @@
 # CivicEye-Intelligent-Citizen-Complaint-Classification-and-Priority-System
 
-# CivicEye – AI Powered Smart Civic Complaint Management System
-
 **CivicEye** is an AI-powered complaint classification and priority prediction system designed to improve urban grievance redressal.
 
 The system automatically:
