@@ -28,11 +28,17 @@ CivicEye solves this by using **Natural Language Processing (NLP)** and **Machin
 ## Key Features
 
 ✅ Automatic Complaint Category Classification
+
 ✅ Priority Prediction (High / Medium / Low)
+
 ✅ SBERT-based Semantic Text Embeddings
+
 ✅ Pre-trained ML Model Integration
+
 ✅ Streamlit Web Interface
+
 ✅ Model Persistence using Pickle
+
 ✅ Modular and Scalable Architecture
 
 ## Technologies Used
@@ -57,11 +63,11 @@ CivicEye solves this by using **Natural Language Processing (NLP)** and **Machin
 * Support Vector Machine
 * Naive Bayes
 
-## 🧬 NLP & Embedding Approach
+## NLP & Embedding Approach
 
 Instead of traditional TF-IDF, CivicEye uses:
 
-### 🔹 SBERT (Sentence-BERT)
+### SBERT (Sentence-BERT)
 
 * Generates semantic sentence embeddings
 * Captures contextual meaning of complaints
@@ -105,6 +111,7 @@ Models are evaluated using:
 Best-performing model is saved using pickle for deployment.
 
 ## Architecture Diagram
+<img width="960" height="720" alt="212222240101-Projectwork2-R2-W1-pres-Review2 pptx" src="https://github.com/user-attachments/assets/cc44ae9b-be88-483a-ac95-a448c52a581f" />
 
 
 
