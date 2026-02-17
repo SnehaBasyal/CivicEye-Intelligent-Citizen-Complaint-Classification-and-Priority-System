@@ -131,6 +131,28 @@ CivicEye supports the following UN Sustainable Development Goals:
 * Email/SMS auto-notification system
 * Cloud deployment (AWS / Azure)
 
+## Output Screenshots
+
+### Homepage
+
+<img width="1916" height="767" alt="image" src="https://github.com/user-attachments/assets/e64e39a5-34c6-4650-9c43-1a41d24457ec" />
+
+### Complaint emails without filter (all)
+
+<img width="1918" height="706" alt="image" src="https://github.com/user-attachments/assets/7470015d-b115-4888-b078-4c6ae1d95aad" />
+
+### Complaint emails with priority and category keyword filter
+
+<img width="1919" height="690" alt="image" src="https://github.com/user-attachments/assets/5e855fba-a27a-4c1e-aaf7-5478f5261682" />
+
+### Complaint summary by priority
+
+<img width="1916" height="828" alt="image" src="https://github.com/user-attachments/assets/2d923b5b-83b8-4356-9fb6-d68d1e6320c1" />
+
+### Complaint summary by category
+
+<img width="1900" height="661" alt="image" src="https://github.com/user-attachments/assets/94ddbd73-d4c4-4209-91f1-39c333613897" />
+
 
 ## Conclusion
 
